@@ -3,14 +3,25 @@ Each row of the csv file indicates a unique trial.
 Here is an explanation of each column in the csv file:
 
 •	Trial number: Unique number given to each trial.
+
 •	Family: Unique number assigned to each family. Trials that have the same family number indicate all larvae in those trials were full siblings. 
+
 •	Temp: The temperature (°C) in which the lake sturgeon in the trial were reared.
+
 •	Lux: The light level (lux) of the raceway during the trial. 
+
 •	Density: The density of larvae released. A 1 here indicates 32 individuals of each taxa were released over the course of the trial and 2 indicates 8 individuals of each were released.
+
 •	Strugeon.surv: The proportion of lake sturgeon larvae that survived the trial. 
+
 •	Heptageniid.surv: The proportion of Heptageniid mayfly larvae that survived the trial.
+
 •	Catostomid.surv: The proportion of white sucker larvae that survived the trial.
+
 •	Strugeon: The number of lake sturgeon larvae that survived the trial. 
+
 •	Heptageniid: The number of Heptageniid mayfly larvae that survived the trial.
+
 •	Catostomid: The number of white sucker larvae that survived the trial.
+
 
